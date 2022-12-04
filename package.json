@@ -1,6 +1,6 @@
 {
   "name": "@birajmainali/over-log",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A library that helps override console.log and provides a bit more logging options",
   "type": "module",
   "main": "XLog.ts",
