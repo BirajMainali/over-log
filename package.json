@@ -1,0 +1,25 @@
+{
+  "name": "XLogger",
+  "version": "1.0.0",
+  "description": "A library that helps override console.log and provides a bit more logging options ",
+  "type": "module",
+  "main": "XLogger.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BirajMainali/XLogger.git"
+  },
+  "keywords": [
+    "console.log",
+    "logger",
+    "logging"
+  ],
+  "author": "Biraj Mainali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BirajMainali/XLogger/issues"
+  },
+  "homepage": "https://github.com/BirajMainali/XLogger#readme"
+}
