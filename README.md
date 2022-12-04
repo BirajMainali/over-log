@@ -5,7 +5,7 @@ A library that helps override console.log and provides a bit more logging option
 ### Usages
 
 ```js
-useXLogger({
+useXLog({
   onLog: toaster.info,
   appMode: "Development",
 });

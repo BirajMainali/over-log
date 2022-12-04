@@ -1,8 +1,8 @@
-type xLoggerOptions = {
+type xLogOptions = {
     onLog?: (message: string) => void;
     appMode: "Development" | "Production";
 }
-export const useXLogger = (option: xLoggerOptions) => {
+export const useXLog = (option: xLogOptions) => {
     window.console.log = (function () {
         const log = console.log;
         return function () {
