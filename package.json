@@ -1,5 +1,5 @@
 {
-  "name": "xLog",
+  "name": "@birajmainali/over-log",
   "version": "1.0.0",
   "description": "A library that helps override console.log and provides a bit more logging options",
   "type": "module",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BirajMainali/XLog.git"
+    "url": "git+https://github.com/BirajMainali/over-log.git"
   },
   "keywords": [
     "console.log",
@@ -19,7 +19,7 @@
   "author": "Biraj Mainali",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/BirajMainali/XLog/issues"
+    "url": "https://github.com/BirajMainali/over-log/issues"
   },
-  "homepage": "https://github.com/BirajMainali/XLog#readme"
+  "homepage": "https://github.com/BirajMainali/over-log#readme"
 }
