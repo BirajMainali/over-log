@@ -1,4 +1,4 @@
-# XLogger
+# OverLog
 
 A library that helps override console.log and provides a bit more logging options
 
