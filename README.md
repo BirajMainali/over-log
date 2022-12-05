@@ -10,7 +10,7 @@ npm i @birajmainali/over-log
 
 ```js
 useOverLog({
-  onLog: toaster.info,
   appMode: "Development",
-});
+  onLog: (params) => toaster.info(params),
+})
 ```
